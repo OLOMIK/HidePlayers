@@ -1,0 +1,2 @@
+# HidePlayers
+Minecraft Plugin.
